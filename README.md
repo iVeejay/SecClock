@@ -1,33 +1,21 @@
 # SecClock
-A modern, visual, customizable desktop clock for Windows.
 
-[Icon placeholder]
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iVeejay/SecClock/main/SecClock512x.png" width="150" alt="SecClock Icon">
+</p>
 
-A lightweight floating clock with smooth rendering, transparent UI, and customizable backgrounds.
+<p align="center">
+  <b>A modern floating visual clock for Windows, featuring smooth rendering,<br> 
+  transparent UI, customizable backgrounds, and lightweight performance.</b>
+</p>
 
-Releases: https://github.com/YourUser/SecClock/releases
-Issues: https://github.com/YourUser/SecClock/issues
-
-Features:
-- High-quality digital time (hours, minutes, seconds)
-- Transparent borderless window with smooth mask rounding
-- Custom backgrounds (local or auto-downloaded images)
-- Adjustable font size & color
-- Always on top
-- Save & restore window position
-- Optional drag-lock
-- Windows startup support
-- Minimize to tray with quick actions
-- Low CPU usage
-
-Settings stored at:
-E:\\SecClock\\settings.json
-
-System Requirements:
-- Windows 10 or Windows 11
-
-Search Tags:
-clock desktop windows transparent floating overlay time widget digital timer modern customizable seconds ui visual clock app
-
-License:
-All Rights Reserved.
+<p align="center">
+  <a href="https://github.com/iVeejay/SecClock/releases">
+    <img src="https://img.shields.io/github/v/release/iVeejay/SecClock?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/iVeejay/SecClock/issues">
+    <img src="https://img.shields.io/github/issues/iVeejay/SecClock?style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge" />
+</p>
