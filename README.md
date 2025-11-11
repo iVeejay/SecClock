@@ -99,13 +99,19 @@ https://github.com/iVeejay/SecClock/issues
 
 ## 🔍 Search Tags
 
-clock windows overlay floating widget transparent digital time desktop seconds customizable minimalist modern ui visual clock
+clock, windows, overlay, floating widget, transparent UI, digital time, desktop widget, minimalist clock, modern UI, customizable clock, visual clock, seconds display, portable app, always-on-top, rounded corners, borderless window, background customization, lightweight, fast, small footprint, productivity tool, floating timer, desktop enhancement
 
 ---
 
 ## 📜 License
 
-# All Rights Reserved.
-This software and all assets are the exclusive property of the author.
-No part of this software may be copied, modified, distributed, or reverse-engineered
-without explicit written permission.
+**All Rights Reserved.**  
+
+This software, including all executable files, assets, icons, images, and source materials, is the exclusive property of the author.  
+
+You **may not**:  
+- Copy, redistribute, or sublicense any part of this software  
+- Modify, reverse-engineer, or decompile the software  
+- Use the software for commercial purposes without written consent  
+
+For any inquiries regarding usage, licensing, or distribution, please contact the author directly.
