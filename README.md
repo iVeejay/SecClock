@@ -59,3 +59,53 @@ https://github.com/iVeejay/SecClock/releases
 
 All configuration is stored in:
 
+E:\SecClock\settings.json
+
+
+---
+
+## 🛠 System Requirements
+
+- Windows 10 or Windows 11  
+- No installation required (portable EXE)
+
+---
+
+## ❓ FAQ
+
+### **Is the source code included?**
+No. SecClock is a **closed-source** application; only compiled releases are provided.
+
+### **How do I change the background?**
+Click the rotate icon (↻) to switch online images or select a custom image through Settings.
+
+### **How do I move the window?**
+Click and drag anywhere on the clock (unless drag-lock is enabled).
+
+### **Why does the window have curved edges?**
+A PNG mask is applied to the window to create rounded corners.
+
+### **Can it launch with Windows?**
+Yes — enable *Run on Startup* in Settings.
+
+---
+
+## 🐞 Issues & Feedback
+
+Open issues here:  
+https://github.com/iVeejay/SecClock/issues
+
+---
+
+## 🔍 Search Tags
+
+clock windows overlay floating widget transparent digital time desktop seconds customizable minimalist modern ui visual clock
+
+---
+
+## 📜 License
+
+# All Rights Reserved.
+This software and all assets are the exclusive property of the author.
+No part of this software may be copied, modified, distributed, or reverse-engineered
+without explicit written permission.
