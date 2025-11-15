@@ -1,16 +1,8 @@
 
-main.py
-*.py
-
 build/
 dist/*.spec
 *.spec
 __pycache__/
-
-Psd/
-*.psd
-
-SecClock.exe
 
 desktop.ini
 .DS_Store
